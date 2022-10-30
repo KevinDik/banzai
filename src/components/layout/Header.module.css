@@ -1,0 +1,12 @@
+.header {
+    padding: 70px;
+    background-color: #460376;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.item {
+    list-style: none;
+    color: #fff;
+    text-decoration: none;
+}
