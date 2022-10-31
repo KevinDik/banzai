@@ -17,9 +17,8 @@
     text-align: center;
     padding: 6px 30px 6px 30px;
     background-color: #460376;
-    border-top-left-radius: 8px;
     border-top-right-radius: 8px;
-
+    border-top-left-radius: 8px;
 }
 
 .item a:hover {

@@ -3,10 +3,12 @@
     background-color: #460376;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
+    justify-content: space-between;
 }
 
 .item {
     list-style: none;
     color: #fff;
     text-decoration: none;
+    float: left;
 }
