@@ -7,7 +7,7 @@ export default function Navbar() {
     <div>
         <Header/>
         <ul className={styles.navbar}>
-            <li className={styles.item}><Link to="/noticias">Notícias</Link></li>
+            <li className={styles.item}><Link to="/">Notícias</Link></li>
             <li className={styles.item}><Link to="/novidades">Novidades</Link></li>
             <li className={styles.item}><Link to="/animes">Animes</Link></li>
             <li className={styles.item}><Link to="/mangas">Mangás</Link></li>

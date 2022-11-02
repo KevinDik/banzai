@@ -1,14 +1,17 @@
 .header {
-    padding: 70px;
+    padding: 20px;
     background-color: #460376;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
-    justify-content: space-between;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    box-sizing: border-box;
+    gap: 10px;
 }
 
-.item {
-    list-style: none;
-    color: #fff;
-    text-decoration: none;
-    float: left;
+img {
+    width: 120px;
+    border: 1px solid #3800A9;
+    border-radius: 20px;
 }
