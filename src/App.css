@@ -2,5 +2,6 @@
   text-align: center;
   background-color: #000;
   height: 1200px;
+  box-sizing: border-box;
 }
 
