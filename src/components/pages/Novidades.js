@@ -1,6 +1,7 @@
+import styles from './Novidades.module.css'
+
 export default function Novidades() {
     return(
-        <div>
-            novidades
+        <div className={styles.novidades}>
         </div>)
 }

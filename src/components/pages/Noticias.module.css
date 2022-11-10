@@ -1,0 +1,16 @@
+.noticias h2, p {
+    color: #fff;
+    font-family: monospace;
+}
+
+.noticias h2 {
+    padding-top: 30px;
+}
+
+.noticias p {
+    padding-top: 20px;
+}
+
+.noticias img {
+    border-radius: 10px;
+}
