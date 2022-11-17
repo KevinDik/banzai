@@ -5,11 +5,14 @@ import logo from '../imgs/logo.jpg'
 
 export default function Header() {
     return(
-        <div className={styles.header}>
-            <Buttons
-            to="/login"
-            text="Entrar/cadastrar"/>
-            <img src={logo} alt="Logo banzai"/>
-            <Search/>
-        </div>)
+        <header className={styles.header}>
+            <div>
+                <Buttons
+                to="/login"
+                text="Entrar/cadastrar"/>
+                <img src={logo} alt="Logo banzai"/>
+                <Search/>
+            </div>
+        </header>
+        )
 }

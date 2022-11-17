@@ -3,16 +3,17 @@
     background-color: #460376;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
-    display: flex;
-    justify-content: center;
-    gap: 40px;
+}
+
+.header div {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
     align-items: center;
-    box-sizing: border-box;
-    padding-left: 100px;
 }
 
 .header img {
     width: 140px;
     border: 1px solid #3800A9;
     border-radius: 20px;
+    margin: 0 auto;
 }
