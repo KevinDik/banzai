@@ -1,8 +1,9 @@
 .header {
     padding: 4px;
-    background-color: #460376;
+    background-color: var(--bg-cards);
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
+    box-shadow: 2px 3px 2px rgba(0, 0, 0, 0.856);
 }
 
 .header div {

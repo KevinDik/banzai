@@ -1,0 +1,18 @@
+.form_control {
+    margin: 2rem;
+}
+
+.form_control label{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.form_control input {
+    padding: .7em;
+    border-radius: 20px;
+    border: none;
+}
+
+.form_control input::placeholder {
+    color: #7b7b7b;
+}

@@ -22,7 +22,8 @@
     color: #ffff;
     text-align: center;
     padding: 6px 40px 6px 40px;
-    background-color: #460376;
+    background-color: var(--bg-cards);
+    box-shadow: 2px 3px 2px rgba(0, 0, 0, 0.856);
 }
 
 .item a:hover {
